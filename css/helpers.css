@@ -1,0 +1,24 @@
+.container-wide {
+  margin: 0 auto;
+  max-width: 1760px;
+  padding: 0 15px;
+}
+.row {
+  display: flex;
+}
+.spece-between {
+  justify-content: space-between;
+}
+.align-center {
+  align-items: center;
+}
+.flex-reverse {
+  flex-direction: row-reverse;
+}
+.container {
+  max-width: 1492px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}

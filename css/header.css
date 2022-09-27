@@ -1,0 +1,43 @@
+.header {
+  padding-top: 64px;
+  margin-bottom: 843px;
+}
+.nav-wrapper {
+  margin-bottom: 198px;
+}
+.logo {
+  font-family: 'PLayfire Display', serif;
+  font-size: 32px;
+  font-weight: 700;
+}
+.nav {
+  font-weight: 700;
+  font-size: 18px;
+}
+.nav ul {
+  display: flex;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+.nav li + li {
+  margin-left: 40px;
+}
+.nav a {
+  color: #fff;
+  text-decoration: none;
+  transition: 0.2s ease-in;
+}
+.nav a:hover {
+  color: #fbd784;
+}
+.account {
+  font-size: 17px;
+  font-weight: 700;
+  text-decoration: none;
+  color: #fff;
+  transition: 0.2s ease-in;
+}
+.account:hover {
+  color: #fbd784;
+}

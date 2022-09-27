@@ -1,0 +1,11 @@
+/*
+font-family:'PLayfire Display', serif;
+font-family:'Girloy'
+ */
+@import './defaults.css';
+@import './helpers.css';
+
+@import './header.css';
+@import './hero-scroll.css';
+@import './article.css';
+@import './footer.css';
