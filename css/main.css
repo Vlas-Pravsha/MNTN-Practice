@@ -9,3 +9,7 @@ font-family:'Girloy'
 @import './hero-scroll.css';
 @import './article.css';
 @import './footer.css';
+
+.header , .main, .footer {
+    display: none;
+}
